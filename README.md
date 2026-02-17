@@ -53,7 +53,8 @@ The notebook produces three .csv files (not included in the repository due to la
 - trader_clusters.csv
 
 In order to run streamlit script:
-Make sure you are running the script in the directory where the dataset and the script is present.
+Make sure you are running the script in the directory where the dataset and the script is present. 
+results.py requires merged_dataset.csv which is not included in the repository but it is produced when you run the actual internship_assignment.ipynb file
 
 ```python
 streamlit run results.py
