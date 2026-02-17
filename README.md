@@ -1,6 +1,6 @@
 <h1>Hyperliquid Sentiment Analysis</h1>
 
-<b> (The methodology and insights for this assignment are included at the end of the ipynb file in a markdown cell.) </b>
+<b> (The methodology and insights for this assignment are included at the end of the internship_assignment.ipynb file in a markdown cell.) </b>
 
 This project analyzes how market sentiment (Fear vs Greed) relates to trader behavior and performance on Hyperliquid.
 The goal is to identify patterns in trading outcomes and derive actionable strategy recommendations.
